@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Cartoon",
+    "image": "/images/cartoon",
+    "ext": "png",
+    "size": 10
+}

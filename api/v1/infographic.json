@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Infographic",
+    "image": "/images/infographic",
+    "ext": "png",
+    "size": 15
+}

@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Object",
+    "image": "/images/object",
+    "ext": "png",
+    "size": 12
+}

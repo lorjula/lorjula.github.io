@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Portrait",
+    "image": "/images/portrait",
+    "ext": "png",
+    "size": 45
+}

@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Background",
+    "image": "/images/background",
+    "ext": "png",
+    "size": 6
+}

@@ -1,5 +1,6 @@
-[
-    {
-        
-    }
-]
+{
+    "category": "Logo",
+    "image": "/images/logo",
+    "ext": "png",
+    "size": 16
+}
