@@ -6,6 +6,7 @@
         "object",
         "cartoon",
         "portrait",
+        "photoshop",
         "thai-design",
         "mobile",
         "sticker-line",
@@ -51,6 +52,13 @@
         "link": "/portfolio/index.html?cat=portrait",
         "title": "Portrait",
         "api": "/api/v1/portrait.json",
+        "description": "See more"
+    },
+    "photoshop": {
+        "cover": "/images/photoshop/1.png",
+        "link": "/portfolio/index.html?cat=photoshop",
+        "title": "Photoshop",
+        "api": "/api/v1/photoshop.json",
         "description": "See more"
     },
     "thai-design": {
